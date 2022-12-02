@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <>
     <div className={classes.footer}>
-      <h1>Nothing is impossible....</h1>      
+      <h1>Nothing is impossible..</h1>      
       <section className={classes.logo}>
       <a href="https://www.linkedin.com/" >
       <img
